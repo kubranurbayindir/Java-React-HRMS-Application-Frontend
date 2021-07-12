@@ -1,21 +1,12 @@
 import React from 'react'
-import { Menu } from 'semantic-ui-react'
+import { Segment } from 'semantic-ui-react'
 
 export default function Categories() {
     return (
         <div>
-             <Menu pointing vertical>
-                <Menu.Item
-                    name='home'
-                />
-                <Menu.Item
-                    name='messages'
-                />
-                <Menu.Item
-                    name='friends'
-                />
-            </Menu>
+            <Segment color='purple'>HRMS.net Kariyer</Segment>
+            <Segment color='pink'>İş İlanları</Segment>
+            <Segment color='purple'>Öz Geçmişim</Segment>
         </div>
     )
 }
-
