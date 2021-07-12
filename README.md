@@ -1,5 +1,7 @@
 # Human Resources Management System
 
+![image](https://user-images.githubusercontent.com/83094285/125327174-80546900-e34b-11eb-8d1a-7e850f5d22a3.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
